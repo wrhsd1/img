@@ -1,0 +1,245 @@
+2022/12/03 02:25:41 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 02:25:41 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 02:25:41 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 02:25:41 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 02:25:42 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 02:25:42 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 02:26:52 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 02:26:52 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 02:26:52 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 02:26:52 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 02:26:52 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 02:26:52 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 02:26:52 [I] [control.go:177] [f142e8c2041ed542] [qh] start proxy success
+2022/12/03 04:53:13 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 04:53:13 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 04:53:13 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 04:53:13 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 04:53:14 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 04:53:14 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 04:54:23 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 04:54:23 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 04:54:23 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 04:54:24 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 04:54:24 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 04:54:24 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 04:55:34 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 04:55:34 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 04:55:34 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 04:55:34 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 04:55:34 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 04:55:34 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 04:56:44 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 04:56:44 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 04:56:44 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 04:56:44 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 04:56:44 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 04:56:44 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 04:57:54 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 04:57:54 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 04:57:54 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 04:57:55 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 04:57:55 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 04:57:55 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 04:59:03 [I] [control.go:177] [f142e8c2041ed542] [qh] start proxy success
+2022/12/03 04:59:03 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 04:59:03 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 04:59:03 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 05:22:15 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 05:22:15 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 05:22:15 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 05:22:15 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 05:22:15 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 05:22:15 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 05:23:25 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 05:23:25 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 05:23:25 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 05:23:25 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 05:23:25 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 05:23:25 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 05:24:35 [I] [control.go:177] [f142e8c2041ed542] [qh] start proxy success
+2022/12/03 05:24:35 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 05:24:35 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 05:24:35 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 05:26:45 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 05:26:45 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 05:26:45 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 05:26:46 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 05:26:46 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 05:26:46 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 05:27:56 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 05:27:56 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 05:27:56 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 05:27:56 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 05:27:56 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 05:27:56 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 05:29:06 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 05:29:06 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 05:29:06 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 05:29:06 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 05:29:06 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 05:29:06 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 05:30:16 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 05:30:16 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 05:30:16 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 05:30:17 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 05:30:17 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 05:30:17 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 05:30:17 [I] [control.go:177] [f142e8c2041ed542] [qh] start proxy success
+2022/12/03 06:49:36 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 06:49:36 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 06:49:36 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 06:49:36 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 06:49:36 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 06:49:36 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 06:49:36 [I] [control.go:177] [f142e8c2041ed542] [qh] start proxy success
+2022/12/03 07:16:48 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:16:48 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:16:48 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:16:48 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:16:48 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:16:48 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:17:58 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:17:58 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:17:58 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:17:58 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:17:59 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:17:59 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:19:08 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:19:08 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:19:08 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:19:09 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:19:09 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:19:09 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:20:19 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:20:19 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:20:19 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:20:19 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:20:19 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:20:19 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:21:29 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:21:29 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:21:29 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:21:30 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:21:30 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:21:30 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:22:40 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:22:40 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:22:40 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:22:40 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:22:40 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:22:40 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:22:40 [I] [control.go:177] [f142e8c2041ed542] [qh] start proxy success
+2022/12/03 07:24:50 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:24:50 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:24:50 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:24:50 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:24:51 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:24:51 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:26:00 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:26:00 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:26:00 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:26:01 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:26:01 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:26:01 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:27:11 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:27:11 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:27:11 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:27:11 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:27:11 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:27:11 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:28:21 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:28:21 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:28:21 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:28:21 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:28:22 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:28:22 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:29:32 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:29:32 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:29:32 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:29:32 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:29:32 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:29:32 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:30:42 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:30:42 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:30:42 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:30:42 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:30:42 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:30:42 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:31:51 [I] [control.go:177] [f142e8c2041ed542] [qh] start proxy success
+2022/12/03 07:31:51 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 07:31:51 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 07:31:51 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 07:33:01 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:33:01 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:33:01 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:33:02 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:33:02 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:33:02 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:34:12 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:34:12 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:34:12 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:34:12 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:34:12 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:34:12 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:34:12 [I] [control.go:177] [f142e8c2041ed542] [qh] start proxy success
+2022/12/03 07:37:31 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 07:37:31 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 07:37:31 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 07:37:31 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 07:37:31 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 07:37:31 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 07:38:41 [I] [control.go:177] [f142e8c2041ed542] [qh] start proxy success
+2022/12/03 07:38:41 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 07:38:41 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 07:38:41 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 08:12:53 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 08:12:53 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 08:12:53 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 08:12:54 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 08:12:54 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 08:12:54 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 08:14:04 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 08:14:04 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 08:14:04 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 08:14:04 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 08:14:04 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 08:14:04 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 08:15:14 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 08:15:14 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 08:15:14 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 08:15:14 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 08:15:14 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 08:15:14 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 08:16:23 [I] [control.go:177] [f142e8c2041ed542] [qh] start proxy success
+2022/12/03 08:16:23 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 08:16:23 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 08:16:23 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 08:17:33 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 08:17:33 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 08:17:33 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 08:17:33 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 08:17:33 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 08:17:33 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 08:18:43 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 08:18:43 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 08:18:43 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 08:18:43 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 08:18:44 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 08:18:44 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 08:19:54 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 08:19:54 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 08:19:54 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 08:19:54 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 08:19:54 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 08:19:54 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 08:21:04 [E] [control.go:155] [f142e8c2041ed542] work connection closed before response StartWorkConn message: EOF
+2022/12/03 08:21:04 [I] [control.go:312] [f142e8c2041ed542] control writer is closing
+2022/12/03 08:21:04 [I] [visitor_manager.go:60] [f142e8c2041ed542] gracefully shutdown visitor manager
+2022/12/03 08:21:04 [I] [service.go:209] [f142e8c2041ed542] try to reconnect to server...
+2022/12/03 08:21:04 [I] [service.go:357] [f142e8c2041ed542] login to server success, get run id [f142e8c2041ed542], server udp port [0]
+2022/12/03 08:21:04 [I] [proxy_manager.go:142] [f142e8c2041ed542] proxy added: [qh]
+2022/12/03 08:22:12 [I] [control.go:177] [f142e8c2041ed542] [qh] start proxy success
+2022/12/03 08:22:12 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 08:22:12 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
+2022/12/03 08:22:12 [W] [control.go:175] [f142e8c2041ed542] [qh] start error: status not wait start, ignore start message
